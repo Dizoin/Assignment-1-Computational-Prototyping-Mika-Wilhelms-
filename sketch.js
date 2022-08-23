@@ -16,7 +16,7 @@ function preload() {
 }
 function setup() {
   createCanvas(800, 600);
-  background(0);
+  background(220);
   page = createGraphics(800, 540);
   
   //box color selection
